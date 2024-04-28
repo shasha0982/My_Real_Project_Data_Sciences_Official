@@ -6,7 +6,13 @@ This is files for projects interview for any companies who wants to see my growt
 https://github.com/shasha0982/Data-Science-Project-CSV-Files
 
 
+
+
+
+
 # For my project skills i used in data sciences :
+
+
 
 # 1. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/90-000-cars-data-from-1970-to-2024.ipynb
 
@@ -164,13 +170,133 @@ Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> 
 Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Heatmap Correlations Matrix ---> Machine Learning Random Forest ---> Logistic Regression ---> Confusion Matrix
 
 
-# 28. 
+# 28. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-housing-price.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> One Hot Encoding ---> Machine Learning Linear Regression ---> Recommendation System
+
+
+# 29. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-ipl-cricket-data-2008-2023.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Machine Learning Histogram
+
+
+# 30. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-medical-insurance-cost-prediction.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> A/B Testing Using Chi-square test ---> Machine Learning Histogram ---> Machine Learning Linear Regression ---> MSE ---> Coerce
+
+
+# 31. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-mental-health-dataset.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> A/B Testing Using Chi-square test
+
+
+# 32. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-most-subscribed-youtube-channel.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis
+
+
+# 33. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-netflix-movies-and-tv-shows.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> A/B Testing Using Chi-square test
+
+
+# 34 . https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-obesity-level.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis
 
 
 
+# 35. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-online-food-dataset.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Machine Learning Histogram ---> Logistic Regression Accuracy
 
 
 
+# 36. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-ramen-ratings.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis
+
+
+# 37. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-rural-development-china-country.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis
+
+
+# 38. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-rural-development-dataset-1.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis
+
+
+# 39. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-sales-of-a-supermarket.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Machine Learning Linear Regression (MSE)
+
+
+# 40. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-shein-men-s-1k-fashion-insights.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Heatmap Correlations Matrix 
+
+
+# 41. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-shopping-mall-customer-segmentation.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Machine Learning Histogram
+
+
+# 42. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-singapore-airlines-reviews.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis
+
+
+# 43. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-skytrax-airline-reviews.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis
+
+
+# 44. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-top-companies-rating-and-reviews.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis
+
+
+# 45. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-vehicle-fuel-economy.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis
+
+
+# 46. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-world-airport-and-airlines.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Machine Learning Histogram
+
+
+# 47. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-world-s-wildlife.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Machine Learning Histogram
+
+
+# 48. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/my-project-youtube-sports-channels-statistics.ipynb
+
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Machine Learning Histogram
+
+
+# 49. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/pima-indians-diabetes-database.ipynb
+
+Roadmaps for project completed ---> Import Libraries ---> Data Inspections ---> Data Cleaning ---> Summary Statistics & Data Distribution using value_counts() ---> Data Visualization / EDA Analysis ---> Machine Learning Logistic Regression
+
+
+# 50.  https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/student-study-performance.ipynb
+
+# 51. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/vehicle-sales-data.ipynb
+
+# 52. https://github.com/shasha0982/My_Real_Project_Data_Sciences_Official/blob/main/urban-traffic-density-in-cities%20(1).ipynb
 
 
 
